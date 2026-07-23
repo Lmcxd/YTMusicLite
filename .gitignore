@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+[Aa]rtifacts/
+[Dd]ist/
+[Pp]ublish/
+TestResults/
+
+# IDEs and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Signing material and local secrets
+*.pfx
+*.p12
+*.snk
+*.cer
+*.key
+.env
+.env.*
